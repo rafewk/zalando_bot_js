@@ -1,0 +1,22 @@
+{
+    "male": {
+        "t-shirty": "odziez-meska-koszulki",
+        "koszule": "odziez-meska-koszule",
+        "bluzy": "odziez-meska-swetry-bluzy",
+        "sneakersy": "obuwie-meskie-tenisowki-trampki",
+        "obuwie_sportowe": "obuwie-sportowe-mezczyzni",
+        "obuwie_biznesowe": "obuwie-meskie-obuwie-biznesowe"
+    },
+    "female": {
+        "sukienki": "odziez-damska-sukienki",
+        "koszulki_topy": "odziez-damska-koszulki",
+        "bluzki_koszule": "odziez-damska-bluzki-tuniki",
+        "spodnice": "odziez-damska-spodnice",
+        "sneakersy": "obuwie-damskie-tenisowki-trampki",
+        "baleriny": "obuwie-damskie-baleriny",
+        "botki": "obuwie-damskie-botki",
+        "szpilki": "obuwie-damskie-szpilki",
+        "czolenka": "obuwie-damskie-czolenka",
+        "obuwie_sportowe": "obuwie-sportowe-kobiety"
+    }
+}

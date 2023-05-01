@@ -1,0 +1,13 @@
+{
+    "size": "__rozmiar-",
+    "sort": {
+        "nowosci": "order=activation_date",
+        "najtaniej": "order=price&dir=asc",
+        "najdrozej": "order=price&dir=desc",
+        "promocje": "order=sale"
+    },
+    "price": {
+        "from": "price_from=",
+        "to": "price_to="
+    }
+}
